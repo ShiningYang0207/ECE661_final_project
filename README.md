@@ -3,13 +3,12 @@
 
 In this project, we performed several image synthesis tasks (image generation, image inpainting, super resolution, image-to-image translation, and sketch-to-image translation) using a pre-trained adversarially robust classifier released by Santurkar et al (2019). Due to the limitation in computation resource, we used ImageNette dataset, which is a subset of 10 easily classified classes from Imagenet. In line with the paper, we found that the features learned by a basic classifier are sufficient for all these tasks, provided this classifier is adversarially robust. The idea for these augmentations, is taking the original adversarial model and using L2 FGSM attacks in various means to achieve the synthesis tasks.
 
-
 Steps to run this code:
 
 1) Clone this repository
 
 
-2)Within this folder clone the robustness repo found here: https://github.com/MadryLab/robustness_applications
+2) Within this folder clone the robustness repo found here: https://github.com/MadryLab/robustness_applications
 
 
 3) Create a Models folder within the robustness_applications folder.
