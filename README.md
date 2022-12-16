@@ -31,4 +31,4 @@ Steps to run this code:
 |---- | ----|
 |Abhijith Tammanagari | [GitHub Profile](https://github.com/23abhijith)|
 |Shining Yang | [GitHub Profile](https://github.com/ShiningYang0207)|
-|Minjung Lee |[GitHub Profile]()|
+|Minjung Lee |[GitHub Profile]((https://github.com/minjung0)|
